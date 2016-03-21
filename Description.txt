@@ -1,0 +1,9 @@
+1. "word_of_the_day.py" lets you get a notification about "word of the day" from wordnik.com. 
+
+2. "quizlet_sets.py" lets you sync your sets present  on quizlet.com and give notification about a random word selected from your set.
+
+You can run the above two python scripts with "crontab" in Linux to give you notifications at any time you wish to.
+
+Note: Currently, this works only for Linux based system.
+
+
